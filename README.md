@@ -1,5 +1,15 @@
 # On-Chain DEX Arbitrage Agent — Statistical Analysis & Real-Time Monitoring
 
+[![🔗 Live demo](https://img.shields.io/badge/🔗%20Live%20demo-Streamlit-FF4B4B?style=for-the-badge)](https://onchain-arbitrage-agent.streamlit.app/)
+&nbsp;
+[![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Built with Streamlit](https://img.shields.io/badge/built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+
+**▶️ Live dashboard:** https://onchain-arbitrage-agent.streamlit.app/
+
+[![Dashboard screenshot](demo/screenshot_dashboard.png)](https://onchain-arbitrage-agent.streamlit.app/)
+
 A proof-of-concept that demonstrates **unified quant infrastructure** — data
 pipeline → statistical model → event-driven backtest → walk-forward validation
 → autonomous risk monitoring → live dashboard — applied to mean-reversion
@@ -225,3 +235,9 @@ on-chain-arbitrage-agent/
 └── tests/
     └── test_poc.py
 ```
+
+---
+
+## License
+
+[MIT](LICENSE) © 2026 Aicoaching2025
