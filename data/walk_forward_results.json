@@ -1,0 +1,169 @@
+{
+  "n_windows": 16,
+  "avg_sharpe": 0.732,
+  "std_sharpe": 1.95,
+  "avg_win_rate": 0.711,
+  "pct_windows_positive_sharpe": 0.562,
+  "windows": [
+    {
+      "window": 1,
+      "test_start": "2022-12-28",
+      "test_end": "2023-03-27",
+      "sharpe": 1.238,
+      "max_drawdown_pct": -1.63,
+      "win_rate": 0.732,
+      "total_trades": 82,
+      "total_return_pct": 1.33
+    },
+    {
+      "window": 2,
+      "test_start": "2023-01-27",
+      "test_end": "2023-04-26",
+      "sharpe": 1.601,
+      "max_drawdown_pct": -1.64,
+      "win_rate": 0.747,
+      "total_trades": 87,
+      "total_return_pct": 1.83
+    },
+    {
+      "window": 3,
+      "test_start": "2023-02-26",
+      "test_end": "2023-05-26",
+      "sharpe": 1.946,
+      "max_drawdown_pct": -1.59,
+      "win_rate": 0.739,
+      "total_trades": 88,
+      "total_return_pct": 2.35
+    },
+    {
+      "window": 4,
+      "test_start": "2023-03-28",
+      "test_end": "2023-06-25",
+      "sharpe": -0.106,
+      "max_drawdown_pct": -2.88,
+      "win_rate": 0.647,
+      "total_trades": 85,
+      "total_return_pct": -0.19
+    },
+    {
+      "window": 5,
+      "test_start": "2023-04-27",
+      "test_end": "2023-07-25",
+      "sharpe": -0.469,
+      "max_drawdown_pct": -2.99,
+      "win_rate": 0.681,
+      "total_trades": 91,
+      "total_return_pct": -0.8
+    },
+    {
+      "window": 6,
+      "test_start": "2023-05-27",
+      "test_end": "2023-08-24",
+      "sharpe": 1.183,
+      "max_drawdown_pct": -2.47,
+      "win_rate": 0.72,
+      "total_trades": 93,
+      "total_return_pct": 1.88
+    },
+    {
+      "window": 7,
+      "test_start": "2023-06-26",
+      "test_end": "2023-09-23",
+      "sharpe": 4.351,
+      "max_drawdown_pct": -2.43,
+      "win_rate": 0.802,
+      "total_trades": 96,
+      "total_return_pct": 6.29
+    },
+    {
+      "window": 8,
+      "test_start": "2023-07-26",
+      "test_end": "2023-10-23",
+      "sharpe": 5.332,
+      "max_drawdown_pct": -1.41,
+      "win_rate": 0.795,
+      "total_trades": 88,
+      "total_return_pct": 6.4
+    },
+    {
+      "window": 9,
+      "test_start": "2023-08-25",
+      "test_end": "2023-11-22",
+      "sharpe": 1.978,
+      "max_drawdown_pct": -2.04,
+      "win_rate": 0.738,
+      "total_trades": 84,
+      "total_return_pct": 2.55
+    },
+    {
+      "window": 10,
+      "test_start": "2023-09-24",
+      "test_end": "2023-12-22",
+      "sharpe": -1.579,
+      "max_drawdown_pct": -4.48,
+      "win_rate": 0.634,
+      "total_trades": 82,
+      "total_return_pct": -2.29
+    },
+    {
+      "window": 11,
+      "test_start": "2023-10-24",
+      "test_end": "2024-01-21",
+      "sharpe": -0.495,
+      "max_drawdown_pct": -4.46,
+      "win_rate": 0.685,
+      "total_trades": 92,
+      "total_return_pct": -0.79
+    },
+    {
+      "window": 12,
+      "test_start": "2023-11-23",
+      "test_end": "2024-02-20",
+      "sharpe": -1.64,
+      "max_drawdown_pct": -2.96,
+      "win_rate": 0.659,
+      "total_trades": 88,
+      "total_return_pct": -2.41
+    },
+    {
+      "window": 13,
+      "test_start": "2023-12-23",
+      "test_end": "2024-03-21",
+      "sharpe": 0.21,
+      "max_drawdown_pct": -3.06,
+      "win_rate": 0.7,
+      "total_trades": 90,
+      "total_return_pct": 0.27
+    },
+    {
+      "window": 14,
+      "test_start": "2024-01-22",
+      "test_end": "2024-04-20",
+      "sharpe": -0.419,
+      "max_drawdown_pct": -3.1,
+      "win_rate": 0.69,
+      "total_trades": 84,
+      "total_return_pct": -0.73
+    },
+    {
+      "window": 15,
+      "test_start": "2024-02-21",
+      "test_end": "2024-05-20",
+      "sharpe": 0.28,
+      "max_drawdown_pct": -3.03,
+      "win_rate": 0.73,
+      "total_trades": 89,
+      "total_return_pct": 0.4
+    },
+    {
+      "window": 16,
+      "test_start": "2024-03-22",
+      "test_end": "2024-06-19",
+      "sharpe": -1.705,
+      "max_drawdown_pct": -3.93,
+      "win_rate": 0.682,
+      "total_trades": 85,
+      "total_return_pct": -2.26
+    }
+  ]
+}

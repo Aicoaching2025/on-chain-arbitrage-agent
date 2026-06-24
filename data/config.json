@@ -1,0 +1,44 @@
+{
+  "pair": "ETH-USDC",
+  "token0": "USDC",
+  "token1": "WETH",
+
+  "backtest_start_date": "2022-07-01",
+  "backtest_end_date": "2024-07-01",
+  "bar_frequency": "1h",
+
+  "data_source": "synthetic",
+  "synthetic_seed": 42,
+  "synthetic_base_price": 1800.0,
+  "synthetic_kappa": 0.007,
+  "synthetic_vol_omega": 1.4e-6,
+  "synthetic_vol_alpha": 0.07,
+  "synthetic_vol_beta": 0.90,
+  "synthetic_trend_sigma": 0.0018,
+
+  "train_window_days": 180,
+  "test_window_days": 90,
+  "walk_forward_slide_days": 30,
+
+  "ma_window_bars": 48,
+  "vol_window_bars": 48,
+  "z_threshold": 2.0,
+  "use_garch": false,
+
+  "initial_capital_usd": 100000.0,
+  "max_position_size_usd": 10000.0,
+  "max_hold_bars": 168,
+
+  "gas_per_tx_usd": 2.0,
+  "slippage_impact_factor": 500.0,
+  "min_slippage_bps": 5.0,
+  "mev_loss_bps": 0.5,
+
+  "max_portfolio_delta": 0.15,
+  "max_daily_drawdown_pct": 5.0,
+  "stop_loss_pct": 5.0,
+  "vol_spike_multiple": 1.8,
+
+  "db_path": "data/uniswap_v3_ethusdc.db",
+  "results_path": "data/backtest_results.json"
+}
