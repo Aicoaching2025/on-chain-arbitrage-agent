@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img">
+<title>On-chain arbitrage, done honestly</title>
+<desc>LinkedIn thumbnail for the on-chain arbitrage agent build.</desc>
+
+<rect x="0" y="0" width="1200" height="1200" fill="#0e1117"/>
+<rect x="0" y="0" width="1200" height="8" fill="#3861fb"/>
+
+<polygon points="84,70 114,70 98,100 120,100 74,156 88,114 70,114" fill="#3861fb"/>
+<text x="136" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" fill="#8a8d98" letter-spacing="3">Quant · DeFi case study</text>
+
+<text x="76" y="290" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="100" font-weight="800" fill="#fafafa">On-chain</text>
+<text x="76" y="398" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="100" font-weight="800" fill="#fafafa">arbitrage,</text>
+<text x="76" y="506" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="100" font-weight="800" fill="#fafafa">done <tspan fill="#16c784">honestly</tspan></text>
+
+<text x="80" y="576" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="33" fill="#c9ccd6">Statistical mean-reversion on Uniswap v3 —</text>
+<text x="80" y="622" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="33" fill="#c9ccd6">backtested with real gas, slippage &amp; MEV costs.</text>
+
+<g transform="translate(0,28)">
+  <path d="M90 760 C170 660 250 860 330 760 C410 660 490 870 570 760 C650 660 730 860 810 760 C890 670 970 850 1050 760 C1090 715 1110 790 1130 760"
+        fill="none" stroke="#3861fb" stroke-opacity="0.12" stroke-width="64" stroke-linecap="round"/>
+  <path d="M90 760 C170 660 250 860 330 760 C410 660 490 870 570 760 C650 660 730 860 810 760 C890 670 970 850 1050 760 C1090 715 1110 790 1130 760"
+        fill="none" stroke="#8a8d98" stroke-width="2" stroke-dasharray="7 8" stroke-opacity="0.55"/>
+  <polyline points="90,760 140,665 190,845 240,690 290,855 340,695 390,760 440,660 490,650 540,850 590,870 640,760 690,665 740,650 790,820 840,860 890,760 940,665 990,650 1040,840 1090,855 1130,760"
+        fill="none" stroke="#3861fb" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="290,872 279,892 301,892" fill="#16c784"/>
+  <polygon points="590,887 579,907 601,907" fill="#16c784"/>
+  <polygon points="1040,857 1029,877 1051,877" fill="#16c784"/>
+  <polygon points="490,634 479,614 501,614" fill="#ea3943"/>
+  <polygon points="990,634 979,614 1001,614" fill="#ea3943"/>
+</g>
+
+<g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="76" y="974" width="330" height="116" rx="16" fill="#1a1d29" stroke="#2a2e3d" stroke-width="2"/>
+  <text x="100" y="1022" font-size="26" fill="#8a8d98">Sharpe</text>
+  <text x="100" y="1068" font-size="48" font-weight="800" fill="#fafafa">0.67</text>
+
+  <rect x="430" y="974" width="330" height="116" rx="16" fill="#1a1d29" stroke="#2a2e3d" stroke-width="2"/>
+  <text x="454" y="1022" font-size="26" fill="#8a8d98">Profit factor</text>
+  <text x="454" y="1068" font-size="48" font-weight="800" fill="#16c784">1.09</text>
+
+  <rect x="784" y="974" width="340" height="116" rx="16" fill="#1a1d29" stroke="#2a2e3d" stroke-width="2"/>
+  <text x="808" y="1022" font-size="26" fill="#8a8d98">Win rate</text>
+  <text x="808" y="1068" font-size="48" font-weight="800" fill="#fafafa">71.9%</text>
+</g>
+
+<text x="78" y="1146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#8a8d98">Python · DuckDB · Streamlit  ·  live demo + full code</text>
+<text x="78" y="1182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#3861fb">onchain-arbitrage-agent.streamlit.app</text>
+</svg>

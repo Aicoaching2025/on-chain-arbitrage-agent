@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img">
+<title>On-chain arbitrage — the honest backtest</title>
+<desc>YouTube thumbnail for the on-chain arbitrage agent build.</desc>
+
+<rect x="0" y="0" width="1280" height="720" fill="#0e1117"/>
+<rect x="0" y="0" width="1280" height="8" fill="#3861fb"/>
+
+<g>
+  <path d="M730 330 C775 235 820 430 865 320 C910 220 955 440 1000 320 C1045 230 1090 430 1135 320 C1175 245 1210 380 1245 330"
+        fill="none" stroke="#3861fb" stroke-opacity="0.13" stroke-width="74" stroke-linecap="round"/>
+  <path d="M730 330 C775 235 820 430 865 320 C910 220 955 440 1000 320 C1045 230 1090 430 1135 320 C1175 245 1210 380 1245 330"
+        fill="none" stroke="#8a8d98" stroke-width="2" stroke-dasharray="7 8" stroke-opacity="0.6"/>
+  <polyline points="730,330 760,225 790,415 820,250 850,425 880,265 910,310 940,225 970,210 1000,410 1030,450 1060,325 1090,235 1120,215 1150,370 1180,440 1210,320 1245,305"
+        fill="none" stroke="#3861fb" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="790,432 779,452 801,452" fill="#16c784"/>
+  <polygon points="850,442 839,462 861,462" fill="#16c784"/>
+  <polygon points="1030,468 1019,488 1041,488" fill="#16c784"/>
+  <polygon points="970,194 959,174 981,174" fill="#ea3943"/>
+  <polygon points="1120,199 1109,179 1131,179" fill="#ea3943"/>
+</g>
+
+<polygon points="78,70 108,70 92,100 114,100 68,156 82,114 64,114" fill="#3861fb"/>
+<text x="130" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#8a8d98" letter-spacing="3">Quant · DeFi build</text>
+
+<text x="68" y="305" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="118" font-weight="800" fill="#fafafa">On-chain</text>
+<text x="68" y="425" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="118" font-weight="800" fill="#3861fb">arbitrage</text>
+
+<text x="72" y="505" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#f5c518">Does it survive real costs?</text>
+
+<g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect x="68" y="560" width="300" height="104" rx="16" fill="#1a1d29" stroke="#2a2e3d" stroke-width="2"/>
+  <text x="92" y="606" font-size="26" fill="#8a8d98">Sharpe</text>
+  <text x="92" y="648" font-size="46" font-weight="800" fill="#fafafa">0.67</text>
+
+  <rect x="392" y="560" width="420" height="104" rx="16" fill="#1a1d29" stroke="#2a2e3d" stroke-width="2"/>
+  <text x="416" y="606" font-size="26" fill="#8a8d98">Profit factor</text>
+  <text x="416" y="648" font-size="46" font-weight="800" fill="#16c784">1.09</text>
+</g>
+</svg>
